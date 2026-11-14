@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Globo",
+      "urlPattern": "globo.com"
+    }
+  ],
+  "file": "globo.js"
+}
